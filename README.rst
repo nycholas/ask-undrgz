@@ -4,6 +4,14 @@ ask-undrgz
 System of questions uses data from underguiz (http://ask-undrgz.appspot.com/).
 
 
+Uploading the Application
+*************************
+
+::
+
+    $ appcfg.py update ask-undrgz
+
+
 Referencies
 ***********
 
@@ -12,14 +20,6 @@ Referencies
 * http://code.google.com/appengine/articles/django.html
 * http://www.42topics.com/dumps/django/docs.html
 * https://github.com/tweepy/tweepy
-
-
-Uploading the Application
-*************************
-
-::
-
-    $ appcfg.py update ask-undrgz
 
 
 Dependecies
